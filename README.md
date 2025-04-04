@@ -1,1 +1,3 @@
-# nglab2017-test
+NGLAB2017 README 
+
+Code and documentation pages 
